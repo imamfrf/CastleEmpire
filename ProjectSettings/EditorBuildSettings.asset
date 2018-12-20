@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Castle Empire.unity
+    guid: 96b26dace69075d4aaa263c07a98375a
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: f705d621b1944ae44b9c5d99371a426d
+  - enabled: 0
+    path: Assets/Scenes/Map.unity
+    guid: 5cbc5465e6a206947b288816c071e480
+  - enabled: 0
+    path: Assets/Scenes/Karakter.unity
+    guid: be5b6e0f7da6c8c4c8a683b241530cc9
+  m_configObjects: {}
